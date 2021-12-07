@@ -1,14 +1,11 @@
 package com.aoc;
 
-import com.aoc.days.Day1;
-import com.aoc.days.Day3;
-import com.aoc.days.Day4;
-import com.aoc.days.Day5;
+import com.aoc.days.*;
 
 public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        new Day5();
+        new Day6();
     }
 }
